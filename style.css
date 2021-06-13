@@ -1,0 +1,36 @@
+html{
+    background: cornflowerblue;
+}
+
+body {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin: 50px;
+  padding: 50px;
+  color:#242424;
+  border-top: 20px solid gold;
+  border-bottom: 20px solid gold;
+  background: white;
+}
+
+h1{
+ font-size: 4em;
+ margin: 0;
+}
+
+p {
+ line-height: 1.4em;
+}
+
+#blog{
+  border-top: 1px dotted #ccc;
+}
+
+.blog-post{
+    border-bottom: 1px dotted #ccc;
+}
+
+form{
+    border-top: 3px dotted #ccc;
+    margin: 4;
+    padding: 4px;
+}
